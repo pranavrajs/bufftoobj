@@ -1,0 +1,31 @@
+{
+  "name": "bufftoobj",
+  "version": "0.0.1",
+  "description": "A small library that helps to create user defined objects from a buffer.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pranavrajs/bufftoobj.git"
+  },
+  "keywords": [
+    "buffer",
+    "object",
+    "convert"
+  ],
+  "author": "Pranav Raj S <pranavrajs@gmail.com> (http://www.maangalabs.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pranavrajs/bufftoobj/issues"
+  },
+  "homepage": "https://github.com/pranavrajs/bufftoobj#readme",
+  "dependencies": {
+    "ip": "^1.0.2"
+  },
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3"
+  }
+}
