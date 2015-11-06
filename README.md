@@ -26,7 +26,9 @@ console.log(object); // {'ip' : '192.168.0.183', 'num1' : 65536}
 `uInt16`,
 `Int16`,
 `char`
-`String` - to be done
+`string`
+
+For string, you need to give the the encType attribute also. encType can be `ascii`,`utf8`.
 
 
 ## Testing

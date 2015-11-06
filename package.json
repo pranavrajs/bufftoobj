@@ -1,6 +1,6 @@
 {
   "name": "bufftoobj",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A small library that helps to create user defined objects from a buffer.",
   "main": "lib/index.js",
   "scripts": {
